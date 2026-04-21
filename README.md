@@ -1,2 +1,5 @@
 # swap
-code will be in python language
+a=b
+b=c
+c=b
+print(a,b,c)
